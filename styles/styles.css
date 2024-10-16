@@ -72,6 +72,8 @@ body{
 }
 
 .apresentacao__conteudo__texto{
+    display: flex;
+    flex-wrap: wrap;
     font-size: 1.5rem;
     font-family: var(--fonte-secundaria);
 }
