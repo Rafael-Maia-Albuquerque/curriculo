@@ -160,7 +160,7 @@ body{
 #estudos:hover{
     display: flex;
     justify-content: center;
-    width: 250px;
+    width: 500px;
     text-align: center;
     border: 2px solid var(--azul-terciario);
     border-radius: 24px;
