@@ -78,6 +78,13 @@ body{
     font-family: var(--fonte-secundaria);
 }
 
+.apresentacao__conteudo__texto__2{
+    display: flex;
+    flex-direction: column;
+    font-size: 1.5rem;
+    font-family: var(--fonte-secundaria);
+}
+
 .apresentacao__links{
     display: flex;
     flex-direction: column;
