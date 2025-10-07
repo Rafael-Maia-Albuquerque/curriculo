@@ -162,9 +162,7 @@ body{
     font-size: 1.75rem;
 }
 
-#competencia{
-    justify-self: start;
-}
+
 
 @media (max-width: 1200px ){
     .cabecalho{
